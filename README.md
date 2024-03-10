@@ -15,6 +15,14 @@ Link: https://aws.amazon.com/bedrock/
 Stable Diffusion XL or SDXL is the latest image generation model that is tailored towards more photorealistic outputs with more detailed imagery and composition compared to previous SD models, including SD 2.1. Stable Diffusion XL is a significant advancement in image generation capabilities, offering enhanced image composition and face generation that results in stunning visuals and realistic aesthetics.
 Link: https://stability.ai/stable-image
 
+# Prerequisites
+* You must have an AWS account, and have your default credentials and AWS Region configured
+* Model access should be requested and granted to call the Foundation Model from Jupyter notebooks.
+* Activate and deactivate the access key of IAM-User or root user
+
+# Prerequisites
+The execution of this program everytime will cost the AWS account
+
 # References
 * Amazon Bedrock SDXL 1.0 - https://aws.amazon.com/bedrock/  
 * Stability.ai API - https://stability.ai/stable-image
