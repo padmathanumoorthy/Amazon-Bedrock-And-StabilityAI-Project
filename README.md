@@ -2,7 +2,7 @@
 
 In this demonstration I will show how to use the AWS SDK for Python (Boto3) to 
 create Generative AI images and simple video animations using 
-* Amazon Bedrock and 
+* Amazon Bedrock 
 * Stability.ai Stable Diffusion XL 1.0 model
 
 # Amazon Bedrock
@@ -16,5 +16,5 @@ Stable Diffusion XL or SDXL is the latest image generation model that is tailore
 Link: https://stability.ai/stable-image
 
 # References
-Amazon Bedrock SDXL 1.0 Documentation
-Stability.ai API Documentation
+* Amazon Bedrock SDXL 1.0 - https://aws.amazon.com/bedrock/  
+* Stability.ai API - https://stability.ai/stable-image
