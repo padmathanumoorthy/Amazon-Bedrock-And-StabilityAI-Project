@@ -1,1 +1,1 @@
-This is image folder for saving generated images
+While running the application in Jupyter notebooks the generated images will be saved in program specified folder.
